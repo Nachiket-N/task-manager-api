@@ -9,6 +9,10 @@ const {
 	sendCancellationEmail,
 } = require("../emails/account");
 
+router.get("/sendHello", async (req, res) => {
+	res.send("Hello there");
+});
+
 router.post("/users", async (req, res) => {
 	const user = new User(req.body);
 	try {
