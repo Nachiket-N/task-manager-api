@@ -40,13 +40,3 @@ module.exports = {
 	sendWelcomeEmail,
 	sendCancellationEmail,
 };
-
-// const data = {
-// 	from: "Excited User <me@samples.mailgun.org>",
-// 	to: "drnachiketss@gmail.com, YOU@YOUR_DOMAIN_NAME",
-// 	subject: "Hello",
-// 	text: "Testing some Mailgun awesomness!",
-// };
-// mg.messages().send(data, function (error, body) {
-// 	console.log(body);
-// });

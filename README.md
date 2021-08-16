@@ -3,8 +3,6 @@
 > Used Mailgun to send mails to users on joining and leaving
 > https://www.mailgun.com/
 
-### I have used Jest as the testing framework for this API
+### Jest has been used as the testing framework for this API
 
-### Database --> MongoDB
-
-
+### Database used - MongoDB
