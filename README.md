@@ -1,1 +1,1 @@
-# A task-manager-api to manage tasks and users :)
+# A Task Manager API to manage tasks and users :)
